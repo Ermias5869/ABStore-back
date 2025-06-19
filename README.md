@@ -39,6 +39,6 @@ The **AB-STORE Backend** is the server-side engine powering the AB-STORE e-comme
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/birhanu-dejen/ABStore-back.git
+git clone https://github.com/Ermias5869/ABStore-back.git
 cd ABStore-back
 ```
